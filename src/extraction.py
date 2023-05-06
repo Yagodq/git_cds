@@ -1,6 +1,5 @@
 #Bibliotecas
 import pandas as pd
-import numpy as np
 
 #Funções 
 def load_data():
